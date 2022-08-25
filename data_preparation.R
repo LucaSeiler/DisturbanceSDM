@@ -1,4 +1,4 @@
-#Script to read the occurence and environmental data
+#Script to read and prepare the occurence and environmental data
 library(rgbif)
 library(CoordinateCleaner)
 library(maps)
