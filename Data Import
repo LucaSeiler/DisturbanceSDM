@@ -1,5 +1,4 @@
 #Script to read the occurence and environmental data
-setwd("C:/Users/luca4/OneDrive/UniUnterlagen/TUM/7.Semester/BA/SDM_distr")
 library(rgbif)
 library(CoordinateCleaner)
 library(maps)
